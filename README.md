@@ -1,2 +1,1 @@
-# 42-libft
-42 libft
+my 1 month libft by only sleeping
